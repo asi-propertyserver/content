@@ -1,0 +1,48 @@
+﻿nodeId	unitCode	name	nameEn	desc	descEn	bsddGuid	uuid	validFrom	validTo
+401898	mm	Millimeter	millimetre	Einheit der Länge, 10^(-3)m	unit of length, 10^(-3)m	1GkM_00mOHtG0000PR1IRl	7d962c2d-b80b-48f1-a094-c39820ab83d3	1414331333178	
+401899	m	Meter	metre	 Basiseinheit der Länge	fundamental unit of length	7 geladene bsDD-Guids	7eab2a34-85fe-4f82-891f-b0e9a9c13019	1414331333202	
+401900	m²	Quadratmeter	square metre	Flächenmaß	defined as the area of a square whose sides measure exactly one metre		82bed0c6-a215-4300-91c3-586e301023ae	1414331333212	
+401901	m³	Kubikmeter	cubic metre	 Maßeinheit für das Volumen	SI derived unit of volume		553b86e7-4868-48fd-8c73-710d39580f4e	1414331333228	
+401902	kg/m³	Kilogramm pro Kubikmeter	kilogram per qubic metre	Einheit der Dichte	unit of volumetric mass density		9c444d69-0c06-4d46-a92f-f3eaa1f6e7ff	1414331333238	
+401903	dB	Dezibel	decibel	Logarithmische Hilfsmaßeinheit zur Kennzeichnung von Pegeln und Maßen	 logarithmic unit used to express the ratio between two values of a physical quantity, often power or intensity	1 geladener bsdd-Guid	746f727c-0770-4532-9126-bb0996025fa4	1414331333255	
+401904		kg/dm³					8da7e27b-d318-4cb6-8564-0b814b9f2c4f	1414331333262	1425464741396
+401905	N/m²	Newton pro Quadratmeter	Newton per square metre	Einheit des Drucks sowie der mechanischen Spannung, E-Modul und Zugfestigkeit	unit of pressure, internal pressure, stress, Young's modulus and ultimate tensile strength		b327b916-0a10-49b5-90f0-4debd7352e18	1414331333273	
+401906	N/mm²	Newton pro Quadratmillimeter	Newton per Square millimetre	Einheit des Drucks sowie der mechanischen Spannung, E-Modul und Zugfestigkeit	unit of pressure, internal pressure, stress, Young's modulus and ultimate tensile strength	3vHuCKoT0Hsm00051Mm008	1a68f2fa-5516-476c-b699-7947cb007c6b	1414331333286	
+401907	W/(m²K)	Watt pro Quadratmeter Kelvin	Watt per squaremeter kelvin	Einheit des Wärmedurchgangskoeffizienten	unit for the thermal transmittance		99fa0315-496f-4c33-812c-5b6816c70f28	1414331333310	
+401908	W/(mK)	Watt pro Meter Kelvin	Watt per metre kelvin	Einheit der spezifischen Wärmeleitfähigkeit (=Wärmeleitzahl)	unit of thermal conductivity	3vHtxSoT0Hsm00051Mm008	3feb0c85-5f03-4a22-9b3c-72a69ec061be	1414331333330	
+401909	%	Prozent	percent	1/100	1/100	1 geladener bsdd-Guid	70d631b4-85ab-464a-b807-2ece27300206	1414331333338	
+401910	°	Grad (Winkel)	degree (angle)	Maßeinheit für den Größenwert eines ebenen Winkels	measurement of plane angle	1 geladener bsdd-Guid	34a1b2a0-cc1d-4c0a-a0a5-feff23690641	1414331333350	
+401911	MN/m³	Meganewton pro Kubikmeter	meganewton per qubic metre	Einheit dynamische Steifigkeit	unit of dynamic stiffness		6bd38e78-b8e8-4ca5-9b5f-d60bb1cbc008	1414331333363	
+401912	kg/m²	Kilogramm pro Quadratmeter	kilogram per square metre	Einheit des  Flächengewichts bzw. der flächenbezogenen Masse	unit of area density		0507d663-2e14-4480-a9eb-ecc779b65c3b	1414331333379	
+401913	kg	Kilogramm	Kilogram	 SI-Einheit der Masse	 base unit of mass	3 geladene bsDD-Guids	bb974737-1a20-43d6-8902-9715bc94f7bf	1414331333391	
+401914	kN/m²	Kilonewton pro Quadratmeter	kilonewton per square metre	Einheit des Drucks sowie der mechanischen Spannung, E-Modul und Zugfestigkeit	unit of pressure, internal pressure, stress, Young's modulus and ultimate tensile strength		de5b138c-2c87-4db7-9a9c-1f07cf538e52	1414331333400	
+401915	m/s	Meter pro Sekunde	metre per second	Einheit der Geschwindigkeit	SI derived unit of both speed and velocity		78abe211-20a3-425b-9431-40969e6d116d	1414331333411	
+401916	bar	Bar	Bar	Einheit für den Druck	unit of pressure		c2554867-c27f-42f8-ab61-0d94acc64a8a	1414331333425	
+401917	N	Newton	Newton	Einheit für die physikalische Kraft	unit of force		ff705491-81e2-4034-ad3c-1055fbe62720	1414331333434	
+401918	kJ/(kgK)	Kilojoule pro Kilogramm Kelvin	Kilojoule per kilogram kelvin	Einheit der spezifischen Wärmekapazität	specific heat capacity		8d0ad961-c598-4517-bb71-3e6698e1cd8d	1414331333457	
+401919	kPa	kPa		= 1 kN/m2			2b0c550f-9c25-4c3f-b5fb-ad2f5198db03	1415631660572	1415631674229
+401920	‰	Promille	per mille	1/1000	1/1000		2858d0de-eb75-4f34-98f7-890cfb97374c	1418295879826	
+401921	cm	Zentimeter	centimetre	Einheit der Länge, 10^(-2)m	unit of length, 10^(-2)m	3o2U00WJWHu000025QrE$V	138a2d9f-3255-4277-b393-81d352b11eb7	1418323068542	
+401922	m²K/W	Quadratmeter Kelvin pro Watt	Square metre kelvin per watt	Einheit des Wärmedurchgangswiderstands	unit of the calculatin thermal resistance		b64a14f5-17cc-493d-947e-cdb1e86691a3	1418323068676	
+401923	N/cm²	Newton pro Quadratzentimeter	Newton per Square centimetre	Einheit des Drucks sowie der mechanischen Spannung, E-Modul und Zugfestigkeit	unit of pressure, internal pressure, stress, Young's modulus and ultimate tensile strength		14f43c79-ffd0-4539-870d-b7fa2b016419	1418323068705	
+401924	cm²	Quadratzentimeter	square centimetre	Flächenmaß	defined as the area of a square whose sides measure exactly one centimetre		b3de70d2-77e4-479f-a6e8-81e1f7838ef5	1418323068877	
+401925	Stk	Stück	off	Anzahl eines Objekts	quantity		b6328e6e-0fa5-4968-a8e3-76d040adad83	1418323068944	
+401926	kN	Kilonewton	kilonewton	Einheit für die physikalische Kraft	unit of force		ee3a8e83-0a53-40f1-b266-9273c6af779b	1418323069043	
+401927	GRD	GRD					9a248c84-2252-48ee-83b4-a6a8cf45029e	1418323069111	
+401928	kJ/M	kJ/M					c5ce3668-865b-4e0b-9387-4774d973e465	1418323069146	
+401929	l	Liter	Litre	Einheit für das Volumen 	unit of volume		9f76878e-9aec-48e8-877b-3805c1476aaa	1418323069348	
+401930	mm/s	Millimeter pro Sekunde	millimetre per second	Einheit der Geschwindigkeit	unit of both speed and velocity		c0549af0-78f4-42bb-8de4-c4fce0039efe	1418323069496	
+401931	V	Volt	Volt	Einheit für die elektrische Spannung	derived unit for electric potential		66c28da2-8cc5-445c-81d7-89a3e74cf613	1418323069589	
+401932		Pers.					059be304-ff84-4964-9f1e-a86c96987286	1418323852690	
+401933		W/m²xK					624fcb19-d44d-4c8f-9410-35cd53c5ea84	1418323830969	
+401934	°C	Grad Celsius	Celsius (centigrade)	Maßeinheit der Temperatur	unit of measurement for temperature		5419fd87-5cb5-411b-bbb8-9f30f4ac6faf	1418724907910	
+401935	lx	Lux	Lux	Beleuchtungsstärke auf einer beleuchteten Fläche gibt an, welcher Lichtstrom (gemessen in Lumen, lm) auf eine Flächeneinheit (gemessen in Quadratmetern, m2) fällt	 unit of illuminance and luminous emittance, measuring luminous flux per unit area		c294718c-1027-43f9-9edc-f08106187282	1422624456469	
+401936	kPa	Kilopascal	kilopascal	Einheit des Drucks sowie der mechanischen Spannung, E-Modul und Zugfestigkeit	unit of pressure, internal pressure, stress, Young's modulus and ultimate tensile strength		eb2eff7d-993f-45c1-b45a-22131f29d6eb	1418655254323	
+401937	N/mm	Newton pro Millimeter	Newton per milli metre	Druck pro Längeneinheit	pressure per length unit		55d4f2cb-aef8-4f45-a78e-8c0ec247dfc8	1418714227904	
+401938	1/h	pro Stunde	per hour	pro Zeiteinheit	per time unit		5c442b8d-1854-4634-8248-7baee35d3af6	1422625487351	
+401939		EUR		Einheit für die Währung Euro			cbb32b73-c7b7-44d6-a56c-532742a3024b	1429616927905	
+401940		Stunde	Hour	Zeiteinheit			919c9acd-fbfb-48b5-bcf1-8a89a297a2cc	1434117190519	
+401941	J	Joule	Joule	 abgeleitete SI-Einheit der Energie	 derived unit of energy		1bae081d-7420-4a4c-a320-2bcc2c592f43	1425459057023	
+401942	nm	Nanometer	Nanometre	Einheit der Länge, 10^(-9)m	unit of length, 10^(-9)m		bcbd8894-dfd2-463f-b473-7b56542863a5	1421407906155	
+401943		Kilowatt	kilowatt	Maßeinheit für Leistung	derived unit of power	0cc2xJd9b9XQD$6HnEj1VX	92ee2ba9-cc72-4337-af2f-5d42c44b2653	1464171557873	
+401944	l/h	l/h		Liter/Stunde			a4d4655a-bf33-4110-9b09-4f3471e39f4c	1464686616106	

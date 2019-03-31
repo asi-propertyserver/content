@@ -1,0 +1,267 @@
+﻿nodeId	name	desc	descEn	bsddGuid	uuid	validFrom	validTo
+372192	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcmeasureresource/lexical/ifcpressuremeasure.htm				b20e2935-bd90-4523-9c2e-57b07f204efd	1430030405728	
+372193	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/lexical/ifcspace.htm				3b5ffe86-0470-4415-b335-0d556255d9ed	1431004611532	
+372194	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/qset/qto_sitebasequantities.htm				cef7db4d-ca16-4b4b-bda7-15dba65a8ad4	1431197504447	
+372195	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/qset/qto_stairflightbasequantities.htm				f3b87392-f3b5-4671-ba05-13df72bb1f7d	1431198146014	
+372196	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/qset/qto_wallbasequantities.htm				092daa99-86d7-4880-a622-670e19ffc5d0	1431199850089	
+372197	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/qset/qto_windowbasequantities.htm				8599df38-88ec-4474-a729-137820a04ef6	1431238921180	
+372198	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgelements/qset/qto_beambasequantities.htm				3352bf78-0503-482b-9ccc-9b1884d6992d	1431239940425	
+372199	ÖNORM B 4710-1	ÖNORM B 4710-1 (ÖNORM EN 206 und NAD)	ÖNORM B 4710-1 (ÖNORM EN 206 und NAD)		31a6b452-e12c-4686-9c45-7b962738bee3	1429990211097	
+372200	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcmeasureresource/lexical/ifcenergymeasure.htm				70f21bfb-37b3-4692-8a16-49f328af9068	1430670384918	
+372201	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcmeasureresource/lexical/ifcvolumemeasure.htm	An IfcVolumeMeasure is the value of the solid content of a body.%%%LINE_BREAK%%%Usually measured in cubic metre (m3).	An IfcVolumeMeasure is the value of the solid content of a body.%%%LINE_BREAK%%%Usually measured in cubic metre (m3).		f42bd196-df86-4563-8d5f-6509d5a566dc	1430670566626	
+372202	EN ISO 10595	Elastische Bodenbeläge - Halbflexible PVC-Bodenplatten - Spezifikation	Resilient floor coverings - Semi-flexible/vinylcomposition poly floor tiles - Specification		4381dfd4-e0c1-4e17-9642-00a359633d05	1421682703362	
+372203	ÖNORM EN 998-1	Festlegungen für Mörtel im Mauerwerksbau - Teil 1: Putzmörtel	Specification for mortar for masonry - Part 1: Rendering and plastering mortar		b61842f3-d327-4b04-b0d8-6fcdb6ae2e8f	1421741449115	
+372204	ÖNORM EN 10027-1	Bezeichnungssysteme für Stähle - Teil 1: Kurznamen	Designation systems for steels - Part 1: Steel names		3134ee38-b4a2-4267-8100-d7c6a080745f	1421662936312	
+372205	ÖNORM EN 10025-ff	Warmgewalzte Erzeugnisse aus Baustählen	hot rolled products of structural steels		72ae4f12-a431-4420-a69a-712f049716f5	1421662966769	
+372206	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcproductextension/lexical/ifcfurnishingelementtype.htm				f769c563-e1ff-41ae-b433-6f163096cb20	1434211985568	
+372207	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcproductextension/lexical/ifcgeographicelementtype.htm				437a74a3-8f21-4b96-b79a-fc25aa7d5c5e	1434212445869	
+372208	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcproductextension/lexical/ifcspatialelementtype.htm				02eaec04-9548-4abd-b795-e4d3156b6826	1434213293225	
+372209	ÖNORM B4710-1, S.66/67				481dda91-9b02-4b21-abc5-2ae97a19a233	1435651426624	
+372210	ÖNORM DIN 18202				33157520-1c8f-409f-a912-f1eabc5c720f	1436371850537	
+372211	ÖNORM B 3407				4954f5d2-1a0f-40ed-9ea6-a65fe5d72b11	1439885217374	
+372212	ÖNORM B 5214				bb0eaf99-9ca2-43c1-a5e7-ddd0db751575	1439885367833	
+372213	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/pset/pset_environmentalimpactindicators.htm				42b67bcb-b522-40b0-8fc3-75339e873ae2	1430221133651	
+372214	ÖNORM EN 12519: 2015 01 01	Fenster und Türen - Terminologie 			1ddea401-9ba4-40bf-9d1d-e25e74d3e12e	1442918713164	
+372215	DALEC	http://dalec.uibk.ac.at	http://dalec.uibk.ac.at		44731177-5295-48dc-89db-fb8c820b9acc	1551950838985	1551950863780
+372216	ÖNORM EN 13279-1	Gipsbinder und Gipstrockenmörtel - Teil 1: Begriffe und Anforderunge	Gypsum binders and gypsum plasters%%%LINE_BREAK%%%―%%%LINE_BREAK%%%Part 1: Definitions and requirements 		1d4da3d1-4b20-4b72-b1ec-a1ba31a58209	1422356799470	
+372217	DALEC	https://www.uibk.ac.at/bauphysik/forschung/projects/dalec/index.html.de			caa24db2-c2a9-4c96-a00f-d9ed7a66960a	1550743644396	
+371952	ÖNORM EN 12440:2004				b8de50dc-9566-4e64-8edc-1d33627b14f5	1414331270475	
+371953	Ifc4				79df2c4f-3c7d-4e6b-9f89-0c275bc23adf	1414331270132	
+371954	ÖNORM EN 13169:2013 01 15				e569c374-be5d-4fb4-a3dd-eddcc8809bfe	1414331272212	
+371955	ÖNORM EN 13170:2013 01 15				218bfa95-91d1-4015-92f8-44c4e16b3826	1414331272254	
+371956	ÖNORM B 6560:2009 02 15				c3934656-fd28-40d7-9688-2da755ee66e0	1414331272296	
+371957	ÖNORM EN 13166:2013 01 15				5e3d337c-fd51-4198-9863-9e201172b161	1414331271609	
+371958	ÖNORM B 6022:2009 02 01				e6bebe5e-5e13-4faa-9d81-a6ab0c47344e	1414331271677	
+371959	A6240-4				9925aaf2-f991-457b-827e-396febd02cdb	1414331273033	1422630021028
+371960	IFC				3560907a-bb15-47ac-a899-95dc0678e3ce	1414331273100	
+371961	IFC4				4a0a0616-8e62-43e0-98ca-8ba33733c094	1414331272894	
+371962	ON 6240-5				9649ade5-d4ae-4271-bbff-37c79122a2e9	1414331274207	
+371963	buildingSMART				c131ff17-3b21-40fd-b989-d5906faee410	1414331273758	
+371964	IFC2x4				21722a7d-3a1d-4136-a857-eff25e0169b9	1414331274726	
+371965	IFC 2x4				1eb929a3-a157-42a1-b6cf-5c69e5de08f4	1414331275386	1422629863953
+371966	ÖNORM EN 14076: 2014 02 15				0c4b37da-176b-4a61-8a65-5394f235bbed	1414331274989	
+371967	ÖNORM B4710-1 Seite 27				d43787f8-9b33-4c58-a693-8d97c1d7c0b4	1414331334350	1422892189730
+371968	ÖNORM B4710-1 Seite 28				addb7a86-8040-45c0-b05c-b2af6af64043	1414331334420	1422892193855
+371969	ÖNORM B4710-1 Seite 29				42f21dc3-929b-4dfa-9b59-28393bad4349	1414331334655	1422892198256
+371970	ÖNORM EN 771-ff	Festlegung für Mauersteine	Specification for masonry units		5f0a05d0-895f-459e-931d-f2ba032b1887	1414331334886	
+371971	DBD				172d30fa-912a-4d99-9069-676f772957d9	1414331333771	
+371972	ÖNORM B4710-1_S.34/35_T.7				37ff9f5b-a77d-4cee-acaa-416133c6e94c	1414331333801	
+371973	ÖNORM B4710-2_S.31_T.7				8c0adf8b-cf29-4820-9a31-3ec944269ca1	1414331333812	
+371974	ÖNORM EN 13163:2013 03 01	Wärmedämmstoffe für Gebäude%%%LINE_BREAK%%%―%%%LINE_BREAK%%%Werkmäßig%%%LINE_BREAK%%%hergestellte Produkte aus expandiertem Polystyrol%%%LINE_BREAK%%%(EPS) ― Spezifikation 	Thermal insulation products for buildings%%%LINE_BREAK%%%― Factory made expanded polystyrene%%%LINE_BREAK%%%(EPS) products ― Specification 		f97209c5-e112-4eac-a0ac-dc65c0901c54	1414331335832	
+371975	Bautabellen				e7116180-0192-4567-b246-e5584dcbaaec	1414331334092	
+371976	ÖNORM B4710-1, S.31				ef99af57-5917-4967-8359-09b7b7a9b1b6	1414331334110	
+371977	ÖNORM B4710-1, Seite 42-45				e960dff1-eb70-4ec6-8320-a528c74bb456	1414331334195	
+371978	ÖNORM EN 197-1 (Seite 15)	Zusammensetzung, Anforderungen und Konformitätskriterien von Normalzement			07757bd8-2796-468a-a6ea-e3457e89a09c	1414331334258	
+371979	ÖNORM B 3012_S.29				5c685a3a-7a65-4e68-9973-bd8bd8ddde81	1414331335081	
+371980	ÖNORM EN 338:2009_S.9_T.1				fef02326-5389-40bb-9f79-8bbf1e528680	1414331335150	
+371981	ÖNORM EN 14080:2013_S.24/25_T.4/5	Holzbauwerke%%%LINE_BREAK%%%―%%%LINE_BREAK%%%Brettschichtholz und%%%LINE_BREAK%%%Balkenschichtholz%%%LINE_BREAK%%%― Anforderungen	Timber structures%%%LINE_BREAK%%%―%%%LINE_BREAK%%%Glued laminated timber and glued solid timber%%%LINE_BREAK%%%― Requirements		43bc5d5c-3ba4-4207-8a72-ae1f8294dafd	1414331335165	
+371982	ÖNORM B 2215:2009_S.18_T.A1				38045818-70de-4154-988a-5474653aecc4	1414331335238	
+371983	ÖNORM B 2215:2009_S.19/20_T.A.3/A.4				82c779de-8f84-4c61-b301-826293cde723	1414331335308	
+371984	ÖNORM B 2215:2009_S.18_T.A2				ced7d9bd-d58d-4f61-a35e-c44bccaf6c1a	1414331335382	
+371985	ÖNORM EN 1996-1-1	Eurocode 6: Bemessung und Konstruktion von%%%LINE_BREAK%%%Mauerwerksbauten	Eurocode 6: Design of masonry structures ― Part 1-1: General rules for reinforced and unreinforced masonry structures		001d6b74-68b9-41bf-ac11-fd3381ffff49	1414331335535	
+371986	ÖNORM EN1996-1-1_S.29_T.3.1				0d62423f-c075-4894-899c-4d24b14b4383	1414331335548	
+371987	ÖNORM EN 998-2	Festlegungen für Mörtel im Mauerwerksbau - Teil 2: Mauermörtel	Specification for mortar for masonry - Part 2: Masonry mortar		8e230ef2-4e16-461f-9b14-0e830dbce3f5	1414331335641	
+371988	ÖNORM B 6000:2013 09 01				b6931a7d-cf8c-48da-bf44-aa6ea598940b	1414331335752	
+371989	ÖNORM EN 13163:2013 03 01, ÖNORM EN 13162:2013 01 15				cfe1430c-ffa7-4d9a-b839-234b7add62a0	1414331336214	
+371990	ÖNORM EN 13162:2013 01 15	Wärmedämmstoffe für Gebäude%%%LINE_BREAK%%%―%%%LINE_BREAK%%%Werkmäßig%%%LINE_BREAK%%%hergestellte Produkte aus Mineralwolle (MW)%%%LINE_BREAK%%%― Spezifikation 	hermal insulation products for buildings%%%LINE_BREAK%%%― Factory made mineral wool (MW)%%%LINE_BREAK%%%products ― Specification 		426ecd24-d3cb-4d42-9912-0c01cd36fa9d	1414331336641	
+371991	ÖNORM EN 13165:2013 01 15				3e795840-15fa-4a67-bda6-bfbecb0c8575	1414331337318	
+371992	ÖNORM B3346_A.4_ff				25e9b522-c6dd-4779-a813-152acfa18b6b	1414331337660	
+371993	ÖNORM EN 235				0a8aa954-60ad-4fac-9c59-a6f582b854f9	1414331337822	
+371994	ÖNORM EN 13167:2013 03 15				19b1d5e3-2477-4fbf-8b81-86b92c1c2525	1414331338917	
+371995	ÖNORM EN 13168:2013 01 15				708d5a9d-f3c1-466a-918e-6e6a29007388	1414331339791	
+371996	ÖNORM EN 13747:2010 05 02				97b23569-2380-4feb-9132-538a5f760499	1414331340336	
+371997	ÖNORM B 6560:2009 02 16				23f5ed1d-90b5-4644-bf68-cd1e6ccd7fd4	1414331341395	1422629476795
+371998	ÖNORM B 6560:2009 02 17				9f154818-4761-41ac-9855-12a915e02800	1414331341468	1422629543168
+371999	ÖNORM EN 13501-2_S.18ff				b52ec128-23f5-4eca-8730-9dcfaf051ea3	1414331341621	
+372000	ÖNORM EN 14411	Keramische Fliesen und Platten - Definitionen, Klassifizierung, Eigenschaften, Konformitätsbewertung und Kennzeichnung			36eb55da-8c2c-4f94-8c8b-5298a84416ea	1414331338054	
+372001	ÖNORM B2230-2_S.7_S.8				2bc9d7ed-78e4-4bad-8085-708160ccab23	1414331338314	
+372002	ÖNORM B2211 Seite 12 Tab. 2				0efb5ec4-20c9-4487-9a0a-0a33fe7a2f16	1414331340921	
+372003	ÖNORM B2211 Seite 11ff				c8ee5d45-7a36-470f-95ba-a7db023e525e	1414331341055	
+372004	Allplan Leitfaden				e77f1939-a091-4be6-b016-a9aa7525aed2	1414331345665	
+372005	ON B2230-2				5df53c3d-b626-49fd-aca6-9e24f1b78cb0	1414331342624	
+372006	ÖNORM EN 12440:20004_S.34-S40				e6e53b6f-c676-46e9-bcf0-06f3b8938299	1414331343639	
+372007	ÖNORM EN 235:2002_S.3-S.8				a1e5a1c4-0e25-41ac-b12b-4b003f3cc2ee	1414331341940	
+372008	ÖNORM EN 1279-1:2004				f13bb821-5a40-45cd-bd5d-06d90485efc3	1414331349793	
+372009	ÖNORM EN 1279-3:2003				99c26991-2acd-4092-94b1-732ab013f96c	1414331350081	
+372010	ÖNORM EN 13126-1_S.6_T.1	Baubeschläge ― Beschläge für Fenster und%%%LINE_BREAK%%%Fenstertüren%%%LINE_BREAK%%%―%%%LINE_BREAK%%%Anforderungen und Prüfverfahren - Teil 1: Gemeinsame Anforderungen an alle Arten von%%%LINE_BREAK%%%Beschlägen 	Building hardware ― Hardware for windows and door height windows%%%LINE_BREAK%%%―%%%LINE_BREAK%%%Requirements and test methods%%%LINE_BREAK%%%―%%%LINE_BREAK%%%Part 1: Requirements common to all types of%%%LINE_BREAK%%%hardware 		10d125cc-0ce5-4395-b6d7-6a5adf937fb2	1414331349205	
+372011	ÖNORM B 5371: 2011 08 15				9ff39f22-48bf-41a4-8c9b-e19a4d9cbf4c	1414331352125	
+372012	ÖNORM EN 12519:2004				517c39a2-5ebb-437a-8697-aaafe47bca6a	1414331350507	
+372013	https://www.wien.gv.at/wohnen/baupolizei/planen/richtlinien/checkplan.html				142c9410-d180-49df-90f7-e513d6f91d1f	1414331355119	
+372014	http://www.buildingsmart-tech.org/ifc/IFC2x3/TC1/html/ifcproductextension/lexical/ifcsite.htm				029507b9-411e-4cbb-a969-b7aba8a9e438	1414331355168	
+372015	ON A6241-1				c569087d-f8ac-4b41-9aac-cbcd532acaec	1414331355593	
+372016	ON B1800				6ca13a8d-1e3d-4e92-a3fb-3096ce6b04b7	1414331355664	
+372017	§17 Mietrechtsgesetz				50f78447-e8dc-4ac9-a619-d7f4420de5ea	1414331356746	
+372018	ON EN15221-6				77903667-33bd-4317-b5f3-a040d375f779	1414331356103	
+372019	ÖNORM A6241-1: RAUM_BEZEICHNUNG				af8eae11-a0bd-45de-8b35-7f0c0cdaa08a	1414331356223	1422629903913
+372020	ÖNORM EN 1991-1-1	Eurocode 1:Einwirkungen auf Tragwerke - Allgemeine Einwirkungen — Wichten, Eigengewicht%%%LINE_BREAK%%%und Nutzlasten im Hochbau	Eurocode 1: Actions on structures ― Part 1-1: General actions ― Densities, selfweight,%%%LINE_BREAK%%%imposed loads for buildings		03110f12-23f7-43e8-852e-495389109129	1414331357167	
+372021	ON A7010-5				6c9aadd2-ab87-46c6-bded-0d5732ac22f4	1414331357197	
+372022	ON A 7010-5				b887407d-e91c-49d7-8375-362d03e9e668	1414331357252	1422629828945
+372023	ON B1801-3				f9f57bb7-d6e3-4641-8026-f6acbd31da23	1414331357498	
+372024	ON H7500				3fd630e5-26c4-4b93-b2f0-6dc793b3c650	1414331357547	
+372025	MRG § 17				b3b7a959-6943-4ba7-80a8-60342122d779	1414331358299	1422629687770
+372026	Wange, bei der ein Ende der Trittstufe eingestemmt ist				029f7ff8-539b-4cdd-890a-55dec578e80e	1414331364846	1422629351645
+372027	IfcRampFlightTypeEnum				31cb1948-72e9-4081-822f-c32eb2916727	1414331366148	1422629627371
+372028	ÖNORM EN 13084-1:2007 05 01	Freistehende Schornsteine - Teil 1: Allgemeine Anforderungen	Free-standing chimneys%%%LINE_BREAK%%%― Part 1: General requirements 		368895dd-dd27-4b1f-b508-da356ee41945	1414331366462	1425563099355
+372029	ÖNORM EN 1993-3-2:2007 04 04	Eurocode 3: Bemessung und Konstruktion von%%%LINE_BREAK%%%Stahlbauten - Teil 3-2: Türme, Maste und Schornsteine ― Schornsteine 	Eurocode 3: Design of steel structures%%%LINE_BREAK%%%―%%%LINE_BREAK%%%Part 3-2: Towers, masts and chimneys%%%LINE_BREAK%%%―%%%LINE_BREAK%%%Chimneys 		f21af6ae-54f4-4871-a8ad-674b8e1adc5f	1414331366501	
+372030	ÖNORM B 2567:2012 12 15				ec30fb26-224f-4de3-b6e7-e192491a8b40	1414331367550	
+372031	ÖNORM EN 12794:2009 03 16				438c6957-3111-4bbd-b771-ff7913f126c8	1414331367587	
+372032	ÖNORM EN 13084-1:2007 05 01	Freistehende Schornsteine - Teil 1: Allgemeine Anforderungen	Free-standing chimneys%%%LINE_BREAK%%%― Part 1: General requirements 		b09f79b2-18bd-49e8-b202-4f590dea7de7	1414331366580	
+372033	ÖNORM EN 13501-1:2009 12 01	Klassifizierung von Bauprodukten und Bauarten zu ihrem Brandverhalten - Teil 1: Klassifizierung mit den Ergebnissen aus den Prüfungen zum Brandverhalten von Bauprodukten			f400b6ad-c9bc-4dc8-87b0-04c1366a384f	1415713306655	
+372034	ÖNORM EN 1849-1	Abdichtungsbahnen - Bestimmung der Dicke und der flächenbezogenen Masse	Flexible sheets for waterproofing - determination of thickness and mass per unit area		867a00c3-6462-4e36-a955-97ace2194578	1418661359566	
+372035	ÖNORM EN 1847	Abdichtungsbahnen - Kunststoff- und Elastomerbahnen für Dachabdichtungen - Bestimmung der Einwirkung von Flüssigchemikalien einschließlich Wasser	Flexible sheets for waterproofing - methodes for exposure to liquid chemicals, including water		87fd9d1c-a140-4a1f-b7f1-08d272b9a595	1418730143829	
+372036	ÖNORM EN 1297	Abdichtungsbahnen - Bitumen-, Kunststoff- und Elastomerbahnen für Dachabdichtungen - Verfahren zur künstlichen Alterung bei kombinierter Dauerbeanspruchung durch UV-Strahlung, erhöhte Temperatur und Wasser 	Flexible sheets for waterproofing - Bitumen, plastic and rupper sheets for roof waterproofing - Methor of artificial ageing by long term exposure to the combination of UV radiation, elevated temperature and water		db409c25-e5a9-4ea3-a2cf-7116bcd06f93	1418727249807	
+372037	ÖNORM B 3407	Planung und Ausführung von Fliesen-, Platten- und Mosaiklegearbeiten			ef75c2ac-e2ed-4b7a-8d46-7c67de950386	1419002569991	
+372038	ÖNORM EN 12057	Natursteinprodukte - Fliesen - Anforderungen			03e52181-16fd-4a99-acfc-1c20762caee5	1419265740026	
+372039	ÖNORM EN 13300	Beschichtungsstoffe - Wasserhaltige Beschichtungsstoffe und Beschichtungssysteme für Wände und Decken im Innenbereich - Einteilung	Paints and varnishes - Water-borne coating materials and coating systems for interior walls and ceilings - Classification		e5d7d0ef-9c3c-4882-b6d6-97ed831e06d6	1419322833422	
+372040	EN 515	Aluminium und Aluminiumlegierungen - Halbzeug - Bezeichnungen der Werkstoffzustände	Aluminium and aluminium alloey - Wrought products - Temper designations		15198d49-5b3d-4bf8-b204-9623ca818de1	1421653667699	
+372041	EN 573-1	Aluminium und Aluminiumlegierungen - Chemische Zusammensetzung und Form von Halbzeug - Teil 1: Numerisches Bezeichnungssystem	Aluminium and aluminium alloys - chemical composition and form of wrought products - Part 1: Numerical designation system		109afc46-99b9-4a21-a08d-67c05b33550b	1421655184322	
+372042	ÖNORM M 3410	Fein- und Hüttenweichblei sowie Umschmelzblei			56e0aebd-509d-4f22-a4d1-fe12aff4c6f4	1421656428207	
+372043	EN 10020	Begriffsbestimmung für die Einteilung der Stähle	Definition and classification of grades of steel		c102a3c5-6574-452e-b904-56d9aa01ee50	1421659297116	
+372044	ÖNORM EN 1992-1-1	Eurocode 2: Bemessung und Konstruktion von Stahlbeton- und Spannbetontragwerken%%%LINE_BREAK%%%Teil 1-1: Allgemeine Bemessungsregeln und Regeln für den Hochbau%%%LINE_BREAK%%%	Eurocode 2: Design of concrete structures — Part 1-1: General rules and rules%%%LINE_BREAK%%%for buildings		60e6b9e2-2b41-484a-ba90-2ac93643e6ea	1422892074594	
+372045	ÖNORM EN 13984	Abdichtungsbahnen - Kunststoff- und Elastomer-Dampfsperrbahnen - Definitionen und Eigenschaften	Flexible sheets for waterproofing - plastic and rubber  vapour control layers - definitions and characteristics		71cced5d-8589-44ad-a7ea-860a6122376a	1418655327409	
+372046	GHS	Global harmonisierte System zur Einstufung und Kennzeichnung von Chemikalien	Globally Harmonized System of Classification, Labelling and Packaging of Chemicals		b6693844-bbf2-4456-b255-6cfd4105ecd1	1418657256068	
+372047	ÖNORM EN 12316-1	Abdichtungsbahnen - Teil 1: Bitumenbahnen für Dachabdichtungen - Bestimmung des Schälwiderstandes der Fügenähte	Flexible sheets für waterproofing - Part 1: Bitumen sheets fpr roof waterproofing - Determination of peel resistance of joints		a06920a2-5767-4e9c-a68a-765240e7be1c	1418717801084	
+372048	ÖNORM EN 12317-1	Abdichtungsbahnen - Teil 1: Bitumenbahnen für Dachabdichtungen - Bestimmung des Scherwiderstandes der Fügenähte	Flexible sheets für waterproofing - Part 1: Bitumen sheets fpr roof waterproofing - Determination of shear resistance of joints		1bf63ec2-f0dc-4d35-a87d-dabedc5afecb	1418717908290	
+372049	ÖNORM EN 1928	Abdichtungsbahnen - Bitumen-, Kunststoff- und Elastomerbahnen für Dachabdichtungen - Bestimmung der Wasserdichtheit	Flexible sheets for waterproofing - Bitumen, plastic and rubber sheets for roof waterproofing - Determination of watertightness		4a3f0667-cd4b-4b15-8208-51e12a1442af	1418718281653	
+372050	ÖNORM EN 1296	Abdichtungsbahnen - Bitumen-, Kunststoff- und Elastomerbahnen für Dachabdichtungen - Verfahren zur Künstlichen Alterung bei Dauerbeanspruchung durch erhöhte Temperatur	Flexible sheets for waterproofing - Bitumen, plastic and rubber sheets for roofing - Method of artificial aging by long term exposure to elevated temperature		4ead4854-f92c-4da2-b870-c66499110d25	1418727337563	
+372051	ÖNORM EN 1110	Abdichtungsbahnen - Bitumenbahnen für Dachabdichtungen - Bestimmung der Wärmestandfestigkeit	Flexibel sheets for waterproofing - Bitumen sheets for roof waterproofing - Determination of flow resistance at elevated temperature		91bb3e66-ee3c-4776-8fba-0cceadaa549f	1418727410975	
+372052	ÖNORM EN 1109	Abdichtungsbahnen - Bitumenbahnen für Dachabdichtungen - Bestimmung des Kaltbiegeverhaltens	Flexible sheets for waterproofing - Bitumen sheets for roof waterproofing -Determination of flexibility at low temperature		375dbd36-288b-48dd-920a-6212c878f767	1418727479262	
+372053	ÖNORM EN 1107	Abdichtungsbahnen - Bestimmung der Maßhaltigkeit	Flexible sheets for waterproofing - Determination of dimensional stability		57b43c88-c5c5-427f-8a87-a404af1477e1	1418728089327	
+372054	ÖNORM EN 12310	Abdichtungsbahnen - Bestimmung des Weiterreißwiderstandes (Nagelschaft)	Flexible sheets for waterproofing - Determination of resistance to tearing (nail shank)		885d8108-6283-4915-bcbd-890caf16dba0	1418728350534	
+372055	ÖNORM EN 12730	Abdichtungsbahnen - Bitumen-, Kunststoff- und Elastomerbahnen für Dachabdichtungen - Bestimmung des Widerstandes gegen statische Belastung	Flexible sheets for waterproofing - Determination of resistance to static loading		1dcfcc17-0dbd-46e2-a43f-04f863bc0b76	1418728469810	
+372056	ÖNORM EN 12691	Abdichtungsbahnen - Bitumen-, Kunststoff- und Elastomerbahnen für Dachabdichtungen - Bestimmung des Widerstandes gegen stoßartige Belastung	Flexible sheets for waterproofing - Determination of resistance to impact		5154d3c5-ddbc-48a6-8f2c-c654e76e6c4c	1418728553759	
+372057	ÖNORM EN 12311	Abdichtungsbahnen - Bestimmung des Zug-Dehnungsverhaltens	Flexible sheets for waterproofing - Determination of tensile properties		df3abb5d-7e3f-43f9-bb1c-8baf52ac02a6	1418728618467	
+372058	ÖNORM EN 1931	Abdichtungsbahnen - Bitumen-, Kunststoff- und Elastomerbahnen für Dachabdichtungen - Bestimmung der Wasserdampfdurchlässigkeit	Flexible sheets for waterproofing - Determination of water vapour transmission properties		5b231355-2c26-44be-af32-800b626ab81e	1418728738022	
+372059	ÖNORM EN 14891	Flüssig zu verarbeitende wasserundurchlässige Produkte im Verbund mit keramischen Fliesen und Plattenbelägen - Anforderungen, Prüfverfahren, Konformitätsbewertung, Klassifizierung und Bezeichnung	Liquid-applied water impermeable products for use beneath ceramic tiling bonded with adhesives - Requirements, test methods, evaluation of conformity, classification and designation		6a80359e-ace2-4efb-8b0e-e795a7cb71e9	1418975602602	
+372060	ÖNORM B 1992-1-1	Bemessung und Konstruktion von%%%LINE_BREAK%%%Stahlbeton- und Spannbetontragwerken; Teil 1-1: Allgemeine Bemessungsregeln und Regeln für den%%%LINE_BREAK%%%Hochbau	Design of concrete structures ― Part 1-1: General rules and rules%%%LINE_BREAK%%%for buildings ― National specifications concerning ÖNORM EN 1992-1-1,%%%LINE_BREAK%%%national comments and national supplements		5f590522-22ca-463d-a279-44969cfa9ba4	1425367536422	
+372061					7f8811d7-7b90-4c24-b0e0-1d6696ede52b	1425367714425	
+372062	ÖNORM B 1992-1-1	Eurocode 2 ― Bemessung und Konstruktion von%%%LINE_BREAK%%%Stahlbeton- und Spannbetontragwerken - Teil 1-1: Allgemeine Bemessungsregeln und Regeln für den%%%LINE_BREAK%%%Hochbau	Design of concrete structures ― Part 1-1: General rules and rules%%%LINE_BREAK%%%for buildings ― National specifications concerning ÖNORM EN 1992-1-1,%%%LINE_BREAK%%%national comments and national supplements		60e13399-7cd7-4026-aaef-bd9672105213	1425367762494	1425367801484
+372063	EN ISO 6946	Bauteile – Wärmedurchlasswiderstand und Wärmedurchgangskoeffizient - Berechnungsverfahren beschreibt die Verfahren zur Berechnung für den Wärmedurchgangskoeffizient (U-Wert, früher k-Wert) von baulichen Konstruktionen.			56ff04a9-6894-49a6-8b7d-d72bf399ac54	1427808101358	
+372064	ÖNORM EN 16311	Ingenieurdienstleistungen - Terminologie zur Beschreibung von%%%LINE_BREAK%%%Ingenieurdienstleistungen für industrielle Produkte	Engineering consultancy services ― Terminology at%%%LINE_BREAK%%%a high level to describe the engineering services for%%%LINE_BREAK%%%industrial products		a157cb8c-30a0-40b2-bdbb-438e41b0a651	1425374153644	
+372065	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/ifcelement.htm				424e9ae9-f221-4c3a-9ecd-fa71a82b58c2	1429693896683	
+372066	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifckernel/lexical/ifcproduct.htm				e6d77892-bded-4b41-a815-a71d3a64b536	1429694362341	
+372067	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifcchimney.htm				2eda0de9-e18c-4878-aa18-d2ad9a5f9708	1429685375356	
+372068	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifcstairflight.htm				305270e7-1daf-465d-a500-5ced7541b2ca	1429685574982	
+372069	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifcwindow.htm				ac79995f-1bfe-4b83-869e-a157575d5834	1429685586232	
+372070	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/lexical/ifcopeningelement.htm				7a4b1b16-2d2e-452a-a32b-a5139866ab72	1429685596422	
+372071	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifcrailing.htm				9ae954ec-46f9-4cd8-8d17-6fdc0fc71de6	1429685609444	
+372072	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifccovering.htm				292c8a36-dac2-4410-affd-f9adca0b0454	1429685625174	
+372073	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifccurtainwall.htm				2d935c84-22af-4d06-b450-cfe47092ae8e	1429685633334	
+372074	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcstructuralelementsdomain/lexical/ifcfooting.htm				a9afef77-4b63-4511-959e-d514f2794ffa	1429685645198	
+372075	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifcmember.htm				3bf1f435-685b-42e5-bc7b-e3e1a46cdea3	1429685653392	
+372076	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcstructuralelementsdomain/lexical/ifcpile.htm				1c611dcd-eaf3-4fd5-aaa2-fb88d335b7e0	1429685663553	
+372077	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifcrampflight.htm				ef1edd7f-8d49-457b-9e77-55f3e653d5f0	1429685675576	
+372078	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifcshadingdevice.htm				8821a685-8df6-4a9e-a5e1-a81884312971	1429685690656	
+372079	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/lexical/ifcbuilding.htm				5cfd539c-ab4b-46fb-b45a-806a4214dd35	1429685702189	
+372080	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/lexical/ifcspace.htm				82b7158a-0072-4e82-98e7-e39799917920	1429685713845	
+372081	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/lexical/ifcbuildingstorey.htm				dd57f0d1-a4b5-4058-9823-500b2fbaddef	1429685721532	
+372082	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/lexical/ifcsite.htm				f23bab00-5097-44fb-8d1e-3d80541a152d	1429685734460	
+372083	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifcwall.htm				b220f4f1-99ec-4258-9dc1-b890343e273d	1429685918423	
+372084	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/pset_doorcommon.htm				beaa0d59-7054-439c-be96-9f2c157ecb1e	1429686061108	
+372085	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifcbeam.htm				63ff3f4c-8447-4ff5-ae2a-50c1e9c68c48	1429686422043	
+372086	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifcramp.htm				35ffaacd-d455-4ef0-a750-be507d977741	1429686966206	
+372087	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifcslab.htm				32091cbb-c002-4295-936d-3ffaa7ade035	1429687785579	
+372088	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifcroof.htm				16a8929e-e28c-48b1-ba6d-a04dac61aacd	1429688046984	
+372089	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifcplate.htm				381acfa0-47b2-4258-8874-6f2dda5a11fa	1429689069450	
+372090	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcstructuralelementsdomain/pset/pset_precastconcreteelementfabrication.htm				f4cd79dc-8aba-48cf-89f5-211136f0e2b9	1429993788872	
+372091	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedfacilitieselements/pset/pset_condition.htm				42dfbb66-55ba-48f4-826b-de544bfda430	1430143080997	
+372092	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcexternalreferenceresource/lexical/ifcexternalreference.htm				ca1279d3-841c-4135-aa53-a2490c9cf1a8	1430063536877	
+372093	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcmeasureresource/lexical/ifcpositiveratiomeasure.htm				0f432a88-08dd-43f2-92bd-eac6280ca467	1430061736592	
+372094	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/qset/qto_buildingbasequantities.htm				95bc63f2-51c8-437c-be00-12dad01cb1da	1431611816757	
+372095	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/qset/qto_buildingbasequantities.htm				e075962a-90ba-4921-a2ac-66b222cf5070	1431613507526	
+372096	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcproductextension/qset/qto_buildingstoreybasequantities.htm				5a7e92e8-d963-4dd0-b95c-0c3d9cf6ac25	1431615344718	
+372097	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgelements/qset/qto_chimneybasequantities.htm				7c46f53d-98d9-4460-85f6-2c5bb4145b2c	1431615657765	
+372098	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgelements/qset/qto_columnbasequantities.htm				95e8960d-b76f-4812-8377-b6d9b6c4a9ee	1431616593941	
+372099	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgelements/qset/qto_curtainwallquantities.htm				be7d560a-7506-4b00-a44c-0f491df2f58b	1431624909636	
+372100	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgelements/qset/qto_doorbasequantities.htm				e5a8c3aa-fee3-4378-af37-1d5cd3511bd4	1431626477831	
+372101	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcstructuralelementsdomain/qset/qto_footingbasequantities.htm				0d542eaf-e408-41b9-b216-d2ed3580aca2	1431627458841	
+372102	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgelements/qset/qto_roofbasequantities.htm				160a9f3c-3ead-4ceb-8ba9-f11c90f703ea	1431629533070	
+372103	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgelements/qset/qto_rampflightbasequantities.htm				3c5d6eb3-b05e-408d-baa2-a164b1b536f9	1431630112519	
+372104	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/ifcroot.htm				66617a55-23a2-4d24-b74d-20aa30798f45	1432133014316	
+372105	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/ifcgloballyuniqueid.htm				2874f83b-8788-4283-a248-58c275ef9e7c	1432133482939	
+372106	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/ifcobjectdefinition.htm				0010bc09-b148-4c79-85c9-1e624e220d8d	1432136882799	
+372107	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/ifcobjectdefinition.htm				eda8f337-cfdf-4577-8980-e8790a5ad9f3	1432136914259	1432136965764
+372108	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/ifcobject.htm				3faea55c-1226-4859-afc9-b54b271d3abe	1432137089184	
+372109	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/				8fa37ba2-bff4-4403-ae3a-d0972c3c000a	1432021942122	
+372110	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/ifcdistributionelement.htm				0959cba2-b7e0-45bd-a42c-70c9836333b7	1432022078513	
+372111	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgserviceelements/lexical/ifcdistributionflowelement.htm				8afd7e8f-1dfd-47bb-ba29-df69dad41812	1432022468330	
+372112	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgserviceelements/lexical/ifcdistributioncontrolelement.htm				fdcb2ba6-d31f-401f-9a12-f25355eda3a9	1432022804875	
+372113	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgserviceelements/lexical/ifcdistributionchamberelement.htm				fb1fe251-bf69-473f-bd2e-78f4a4e85307	1432039678921	
+372114	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgserviceelements/lexical/ifcenergyconversiondevice.htm				c0c405d7-eb13-486c-bf26-40df727766b5	1432040023565	
+372115	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgserviceelements/lexical/ifcflowcontroller.htm				5683868e-113f-4570-a6cb-9ff12dd85e67	1432040434517	
+372116	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgserviceelements/lexical/ifcflowfitting.htm				86db0983-bab1-47bb-8910-cd290ac5ae20	1432040949571	
+372117	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgserviceelements/lexical/ifcflowmovingdevice.htm				f5b290ec-ca8c-4d1d-a920-a222cefc2682	1432041116799	
+372118	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgserviceelements/lexical/ifcflowsegment.htm				c0aac1a8-bf8f-4b73-b440-a4cc3b5efcf7	1432041362503	
+372119	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgserviceelements/lexical/ifcflowstoragedevice.htm				12855918-e246-4366-a92a-c257544e53dc	1432041520950	
+372120	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgserviceelements/lexical/ifcflowterminal.htm				e2f2be5f-71ad-4ef1-bd20-7e436336c6cb	1432041661387	
+372121	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgserviceelements/lexical/ifcflowtreatmentdevice.htm				4797eae4-8b90-4ed7-a62f-56edd51aa275	1432041933198	
+372122	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcbuildingcontrolsdomain/lexical/ifcactuator.htm				e3634d27-8353-4430-ba76-094d3ec52b03	1432043278458	
+372123	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcbuildingcontrolsdomain/lexical/ifcalarm.htm				8efd1020-2c40-400e-94bb-c2a67a54b55b	1432043651854	
+372124	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcbuildingcontrolsdomain/lexical/ifcalarm.htm				1fe4b671-3354-47c1-a04e-5b01781ae57c	1432043663019	
+372125	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcbuildingcontrolsdomain/lexical/ifccontroller.htm				793a7133-8c71-4929-871f-de5b2f225dd3	1432043968027	
+372126	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcbuildingcontrolsdomain/lexical/ifccontroller.htm				18fd85f7-b11e-4115-a4a6-144c5136e8a9	1432043983126	
+372127	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcbuildingcontrolsdomain/lexical/ifcflowinstrument.htm				d4c11823-5f84-48e5-99d9-763a155310d4	1432044214528	
+372128	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcelectricaldomain/lexical/ifcprotectivedevicetrippingunit.htm				3ca32787-5e9f-4445-b077-8db206596d8d	1432044401432	
+372129	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcbuildingcontrolsdomain/lexical/ifcsensor.htm				616a58d8-1d83-4661-9295-33ba743cad0e	1432044740345	
+372130	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcbuildingcontrolsdomain/lexical/ifcsensor.htm				f97cbe44-022a-49ec-8d14-d939cf040bb2	1432044750047	1432044927755
+372131	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcbuildingcontrolsdomain/lexical/ifcsensor.htm				ea2ced7b-1753-4a9f-8291-541ecc8061d6	1432044768007	1432044933797
+372132	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgelements/qset/qto_railingbasequantities.htm				0857dd50-0106-48ed-a6d1-74fccd9c4e9d	1431856295798	
+372133	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgelements/qset/qto_platebasequantities.htm				3d42de4a-ebc3-4f0e-86c3-579452f88d6a	1431856516869	
+372134	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcstructuralelementsdomain/qset/qto_pilebasequantities.htm				713f7cfd-5da6-496c-97cf-7c82f0eee4e1	1431858704589	
+372135	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgelements/qset/qto_memberbasequantities.htm				de5fe35c-4631-4684-830e-2fd3cf43c23c	1431889832596	
+372136	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcsharedbldgelements/lexical/ifcmember.htm				cd1956fb-e5b8-4097-a260-ab29ae133e17	1431891025901	
+372137	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifcbuildingcontrolsdomain/lexical/ifcunitarycontrolelement.htm				fbe3be9a-afbd-4cde-96ac-1c04f5b7576e	1432045139047	
+372138	ÖNORM EN 1998-1:2011 				54a59e21-7d43-4eae-b5be-2d42d8590c2f	1432128404959	
+372139	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/schema/ifckernel/lexical/ifcproduct.htm				f72f0c4d-4ace-4ada-a947-fbecafa425bb	1432132100529	
+372140	http://www.bmwfw.gv.at/Tourismus/HistorischeBauten/Seiten/StandardisierteLeistungsbeschreibungen.aspx				d4b02c69-d4b6-4dbf-ad3b-62e44d6e2387	1432641579433	
+372141	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/pset_spaceoccupancyrequirements.htm				c4cddc67-8525-40a4-8b83-989dfebba06d	1433668940328	
+372142	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/qset/qto_slabbasequantities.htm				8dd41879-41cb-47ae-bcf5-540737a744f6	1434185936414	
+372143	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/pset_spacelightingrequirements.htm				501a1612-f189-4c99-9dd6-01bed98af4ff	1433523176871	
+372144	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/pset_spacefiresafetyrequirements.htm				1d46a268-000e-4bef-b4f3-9f44f889c1a2	1433595268228	
+372145	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/link/pset_spacethermalrequirements.htm				3bcd1388-23ab-4a92-b6a3-5f03380e1ab3	1433597921877	
+372146	DIN 5034				ea60115d-1802-4916-9e86-ec72ad7ed0d3	1434113611779	
+372147	ÖNORM EN 12464				cb60dbf8-34d3-4c2e-9e15-75ac2753b7d7	1434113666992	
+372148	ÖNORM B 3410:2006 09 01	Gipsplatten für Trockenbausysteme			b1064868-bd83-4b16-b63a-2247b53741ac	1435658746927	
+372149	ÖNORM EN 12524: 2000 09 01	Baustoffe und -produkte - Wärme- und feuchteschutztechnische Eigenschaften - Tabellierte Bemessungswerte			3e101b63-924c-4a9b-b849-a25328a43a20	1435732455578	
+372150	ÖNORM EN 15283-2:2009 10 01	Faserverstärkte Gipsplatten - Begriffe, Anforderungen und Prüfverfahren - Teil 2: Gipsfaserplatten			e370c722-ec65-4ae6-b8f5-eac8af714798	1435732716886	
+372151	ÖNORM EN 12524: 2000 09 01 	Baustoffe und -produkte - Wärme- und feuchteschutztechnische Eigenschaften - Tabellierte Bemessungswerte			37bf4d48-fbcd-46ad-8b42-082c6efeadf7	1435733369247	
+372152	ÖNORM EN 520: 2010 07 01	Gipsplatten - Begriffe, Anforderungen und Prüfverfahren			9cd421a8-bb44-4175-a113-4cc51635a865	1435734319831	
+372153	Bauordnung für Wien	Wiener Stadtentwicklungs-, Stadtplanungs- und Baugesetzbuch	building regulations city of vienna		14e302ef-ba02-43d0-9a9a-bf72de336c6b	1429453396013	
+372154	OIB Richtlinie 4 - Nutzungssicherheit und Barrierefreiheit	http://www.oib.or.at/de/guidelines/richtlinie-4-1			1677fdba-e232-47d7-8a58-5105b1880469	1431331480499	
+372155	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/qset/qto_buildingbasequantities.htm				a46c68b1-3d44-445a-bff7-c6536413078c	1431610399039	
+372156	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/qset/qto_spacebasequantities.htm				6f657803-93db-4bff-8c22-10fe1a1e7b37	1431328935733	
+372157	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/pset/pset_spaceparking.htm				a8ce2077-bb41-49c3-8c8c-f5805bb57b9b	1431329630097	
+372158	ÖNORM EN 12216: 2002 12 01	Abschlüsse - Terminologie, Benennungen und Definitionen			6edf5573-4ff0-4363-80e6-60ab93c4cee5	1438251462812	
+372159	ÖNORM A 2063:2015				fc307b4c-734b-4c33-ab84-abce2b85a6ce	1429702485217	
+372160	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/pset/pset_beamcommon.htm				c476a76f-67f6-456e-a281-48979df25ae4	1429602610822	
+372161	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcstructuralelementsdomain/pset/pset_reinforcementbarpitchofslab.htm				23bdcfeb-c4c9-4b16-99db-120b505773d8	1429977833038	
+372162	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcstructuralelementsdomain/pset/pset_concreteelementgeneral.htm				5bab9fbe-ea7f-4725-911e-ee302611feb8	1429986803548	
+372163	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcstructuralelementsdomain/pset/pset_reinforcementbarpitchofwall.htm				2b061fd4-79eb-4f19-91b2-7682ba9ca541	1429969845520	
+372164	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcstructuralelementsdomain/pset/pset_reinforcementbarpitchofcolumn.htm				dbe82afc-e94c-4bc4-bee2-a05cc12ce751	1429973296662	
+372165	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/pset/pset_buildingcommon.htm				5e039f07-4622-4aa4-92c4-cf762f674a8c	1429624013258	
+372166	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/pset/pset_buildingelementproxycommon.htm				e82ef364-aea1-4ac7-8786-684d12bf5fc7	1429624230935	
+372167	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/pset/pset_buildingstoreycommon.htm				d8be01c1-5ae3-47fb-86d5-4c4e9341e012	1429624302484	
+372168	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/pset/pset_sitecommon.htm				c920fcb6-3c7e-4a33-8ca4-e26964582238	1429624313789	
+372169	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/pset_spacecommon.htm				c202ff3c-40ca-44e1-9921-17e2ed19e219	1429624324797	
+372170	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/pset_wallcommon.htm				61c27089-1ab2-443b-903e-24f74bfd6618	1429624342630	
+372171	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/pset/pset_platecommon.htm				94739783-3db3-4cb0-bc58-fa38d591d304	1429624354669	
+372172	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/pset_slabcommon.htm				c5c4307a-d6bd-4d01-bed6-31193dfd3dae	1429624383289	
+372173	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/pset/pset_roofcommon.htm				f64ac3b3-e646-4081-acfb-d475265a02f4	1429624407403	
+372174	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/pset/pset_doorcommon.htm				29cdb4fe-8d38-4668-a519-6f7648798261	1429624417640	
+372175	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/pset/pset_rampcommon.htm				6fa0a80a-07c3-4548-90e5-6fd099b223c5	1429624436940	
+372176	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/pset_staircommon.htm				f140d47d-0975-498c-a62c-d085244fd187	1429624466593	
+372177	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/pset_stairflightcommon.htm				0c8ef207-68f5-4ac2-8e81-3fed3af50e18	1429624482011	
+372178	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/pset/pset_windowcommon.htm				f1c399d2-206b-4b8d-a5c0-80c9fd353816	1429624496027	
+372179	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/pset/pset_openingelementcommon.htm				141d5324-7158-4a96-aff7-4068dc0e140b	1429624513322	
+372180	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/pset_railingcommon.htm				c29f4f6b-c50c-485f-8d24-179d98f5aab5	1429624530442	
+372181	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/pset_chimneycommon.htm				459bc7db-5d05-4b0e-a5e0-af6cea21c78f	1429624544793	
+372182	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/pset/pset_curtainwallcommon.htm				f60f5bd0-e2da-4251-8236-da63c7e6c8e9	1429624559153	
+372183	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/pset_footingcommon.htm				2b9f4f74-54b3-4770-956a-62b3ba125b08	1429624570897	
+372184	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/pset/pset_membercommon.htm				7a4b0920-5cc9-424f-8d4f-c6c0648baf35	1429624591197	
+372185	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/pset_pilecommon.htm				d458a099-47da-40ee-aabb-908d841c28c4	1429624604106	
+372186	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/pset_rampflightcommon.htm				e224c1f6-5483-47a5-a390-1607b6a80abb	1429624624634	
+372187	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/pset/pset_shadingdevicecommon.htm				64ae01d0-1db9-43a1-afcb-290bce609041	1429624644243	
+372188	http://www.buildingsmart-tech.org/ifc/IFC4/Add1/html/link/pset_columncommon.htm				7fdc2316-f01a-4909-baa2-edccf5bdf1cf	1429624984297	
+372189	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcproductextension/pset/pset_zonecommon.htm				714126a8-0f10-4da7-b059-7bd0b4ff1ec1	1429625884605	
+372190	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcsharedbldgelements/lexical/ifccolumn.htm				baae8d2d-64d6-4753-abd3-84bcb3805479	1429685181987	
+372191	http://www.buildingsmart-tech.org/ifc/IFC4/final/html/schema/ifcstructuralelementsdomain/pset/pset_precastconcreteelementgeneral.htm				22819db3-5842-4890-b3ae-d7ae9dda0f49	1430028511046	

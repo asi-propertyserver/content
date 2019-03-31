@@ -1,0 +1,5 @@
+﻿nodeId	name	url	desc	ts	languageCode	level	state	statusComment	uuid	validFrom	validTo
+371886	Ifc4	http://www.buildingsmart.org	Ifc4 library	1414331266551	de-AT		UNDEFINED		aaf83605-ee98-47ce-ac39-4819906d6c42	1414331266561	
+371887	ON6241-2-freeBIM	http://www.freebim.at	freeBIM Tirol	1414331268564	de-AT		UNDEFINED		87cccb4c-53ae-4df9-8461-78fb01f22f0c	1414331268565	
+371888	ÖNORM A 6241-1	https://www.austrian-standards.at/produkte-leistungen/kostenlose-downloads/supplements-zu-normen/oenorm-a-6240-4/	oenorm_a6241-1_ergaenzung_anhang_c3-3_2012-08-01	1418323922309	de-AT		UNDEFINED		2e601afc-92ff-469d-8723-dff8550ea178	1418323731953	
+371889	freeClass	http://www.freeclass.eu	freeClass Bibliothek	1418323631484	de-AT		UNDEFINED		ba3b60f7-56ee-4ff6-ba03-ead377db9984	1414331662436	

@@ -1,0 +1,40 @@
+﻿nodeId	code	name	nameEn	desc	descEn	bsddGuid	uuid	validFrom	validTo
+394583	011	AA - Außenanlagen					8e94729d-2882-447f-8f9d-f94a36e6b63b	1414331332862	
+394584	013	BS - Brandschutz					c6333c1b-95a1-453a-a5fc-2f1a7cb7079e	1414331332875	
+394585	201	ML - Medizin- und Labortechnik					cb624abc-e5a4-4913-b16e-7f8ff3d917cc	1414331332902	
+394586	000	AG - Auftraggeber, Bauherr					74f88f96-d490-44d6-9012-ea754e5f5d8c	1414331332917	
+394587	300	VB - Verkehrstechnik - Bahn					f34668d8-2f4f-4ec4-a996-342433eacd11	1414331332925	
+394588	301	VS - Verkehrstechnik - Straße					f9c16b54-4d44-4f3d-9415-fc43f520142a	1414331332942	
+394589	400	VM - Vermessung					650b29ab-5ac9-4a75-96da-5f9a28ce191c	1414331332956	
+394590	401	VM - Vermessung, Leitungstechnik 					fd2f4fd1-d695-4d19-a8c4-dfbcb8042c23	1414331332982	
+394591	500	FM - Facilities Manager					214b1313-0c45-4769-b4f4-2866a5b3e427	1414331332996	
+394592	051	SM - Maschinenanlagen /Sonderplanungen					907fbf85-038e-4de1-b34e-60ab44d77848	1414331333010	
+394593	050	SK - Küchenplanung, Wäscherein (Sonderplanungen)					06efd29f-d63f-4f3c-a596-ab7434fe6494	1414331333026	
+394594	010	AR - Architektur					e13e95c2-dd3b-4dae-9080-14ece47c86d7	1414331332646	
+394595	020	TP - Tragwerksplanung					9a4c2775-cd30-4f0c-9855-dc869db3c122	1414331332675	
+394596	110	GS - Sanitär					e75d5981-926b-44c8-9c78-93ba7c84d0ff	1414331332684	
+394597	100	GE - Elektrotechnik					7e55314f-8afe-4cba-9205-569cf69f9ed3	1414331332698	
+394598	101	TGA-GF - Fördertechnik					dd4cae68-6290-4071-9fee-7616dabb714a	1414331332707	
+394599	012	AE - Einrichtung – Innenausstattung/Möblierung					7662fcf4-439c-4fb8-ade4-931a0ed4fac9	1414331332739	
+394600	106	TGA-GN - Nachrichtentechnik & EDV					8062957b-aa76-4c90-8d7a-2d73bafd0a3b	1414331332747	
+394601	107	TGA-GR - Regeltechnik (MSR)					c3c5ad04-bc7c-4166-99fd-498992d03559	1414331332767	
+394602	200	BM - Bodenmechanik, Geotechnik					ce0c06f6-7afe-4702-83f9-b242327bd100	1414331332780	
+394603	102	GH - Heizungstechnik					ae02ed4c-519f-4478-b508-4fae2ad5997e	1414331332795	
+394604	103	TGA-GK - Kältetechnik					2a83bc6f-2409-4c1c-8571-8f59b0fb7225	1414331332823	
+394605	105	TGA-GL - Lüftung-, Klimatechnik					52c536ff-38de-4e50-875d-f2ca529baa31	1414331332837	
+394606	021	PH - Bauphysik					42fa6253-455e-45a0-80ec-0d48f7feec5d	1414331332850	
+394607	022	AF - Ausführende					eeead605-4da2-4114-829b-490e7cc742a0	1419326698206	
+394608	WT	WT - Wettebwerbsteilnehmer					d956335b-59aa-45a9-9e31-f442b049f7c6	1427485744475	
+394609	PH	PH - Bauphysik					17b75c90-9db6-4fa7-b7b0-69fe6ebd81e9	1427485771533	
+394610	VM	VM - Vermessung					d318b975-b598-459f-98ad-a02f779280d2	1427485785928	
+394611	BA	BA - Örtliche Bauaufsichten					b7d16c21-78f3-47bf-998e-b1c473c1a58a	1427485500337	
+394612	BK	BK - BIM Koordinator					b12dac26-f8da-470b-8e69-f32fc28509f4	1427485525623	
+394613	BT	BT - Betreiber					b79f1be0-88cf-40f0-901f-17246d8f1382	1427485540211	
+394614	FG	FG - Freigabe					6dba09e6-c4ff-4834-b5b7-f82a0f31617a	1427485552195	
+394615	FM	Facilities Manager					a38a7a1a-f83e-4e63-be22-ade6d92b4e07	1427485576522	1427485918719
+394616	HT	HT - Technischer Gebäudeausrüster					cb13e138-b530-4bca-b344-2afe311aff4f	1427485606913	
+394617	PB	PB - Projektbeteiligte					9b101a8a-e366-4c49-b93e-168c8aff8195	1427485649338	
+394618	PM	PM - Projektmanagement					674ba9cb-7d38-426f-806e-b43ffb634d6e	1427485670240	
+394619	PS	PS - Projektsteuerung					a3b78f3e-b7e6-4f28-b9b3-7a78fdbab5e9	1427485687631	
+394620	PT	PT - Planerteam					697f78cd-a28a-44b2-8688-e6471071fbbd	1427485703669	
+394621	WJ	WJ - Wettbewerbsjury					6447c8d4-8472-4b4b-a35c-da1df9a339ff	1427485727183	

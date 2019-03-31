@@ -1,0 +1,32 @@
+﻿nodeId	name	nameEn	desc	descEn	bsddGuid	regExp	uuid	validFrom	validTo
+404088	IfcGloballyUniqueId	IfcGloballyUniqueId	Globally Unique Identifier%%%LINE_BREAK%%%z.B. 936DA01F-9ABD-4D9D-80C7-02AF85C822A8	Globally Unique Identifier%%%LINE_BREAK%%%e.g. 936DA01F-9ABD-4D9D-80C7-02AF85C822A8			1bf8f2d6-df28-4b73-84a9-db0e1b03ddc1	1414331333136	
+404089	Ja / Nein Wert	Yes/No value					bd6e61c5-c0ba-4baf-8002-db3b1799f1d9	1414331333149	
+404090	Freier Text	Free Text					295709cc-eeb3-4457-91ab-469572095260	1414331333042	
+404091	Liste	List	%%%LINE_BREAK%%%				83d1afc4-b847-473e-8759-7367f940140f	1414331333066	
+404092	Reelle Zahl	Real number	z.B. +/- 123.45	e.g. +/- 123.45			d50b8c9d-ee0b-4dc9-9d4b-729dfeb1fdce	1414331333076	
+404093	Ganze Zahl	Integer	z.B. +/- 12345	e.g. +/- 12345		^[+\-]?[0-9]+$	3af0e2e3-e30b-4d6e-845b-9b5a77977792	1414331333083	
+404094	Datum	Date	JJJJ-MM-TT%%%LINE_BREAK%%%(z.B. 2015-01-31)	YYYY-MM-DD%%%LINE_BREAK%%%(e.g. 2015-01-31)			c1ae66ff-b6f3-41f9-9bbc-d559288c6228	1414331333095	
+404095	Uhrzeit	Time					9c6696bf-70ed-4b30-8315-a4e1fadc62ad	1414331333104	
+404096	Datum + Uhrzeit	Date + Time	JJJJ-MM-TT hh:mm:ss	YYYY-MM-DD hh:mm:ss			c77183f8-b4cf-4186-aaf6-f07fd0eb8f3f	1414331333119	
+404097	Zeitspanne	Duration					ea0d3335-468e-489e-a398-2b0cf1f7c965	1414331333126	
+404098	positive Ganzzahl	positive integer	z.B. 12345	e.g. 12345		^[+]?[0-9]+$	86b5c938-8b9b-4f37-a67e-bce41ec6faa3	1418323758616	
+404099	Text-ID	Text-ID	z.B. 690821	e.g. 690821			aacef875-7434-4fde-bb90-b98be17dc590	1418323759188	
+404100	Sonderzahl_4		.728/12				06f29c55-6461-48ca-a5c2-e053a669daa5	1418323759314	
+404101	positive Zahl	positive number	1.65				af680c21-3f89-4491-ac0e-c59063923758	1418323760618	
+404102	Sonderzahl_3		1:100				5aa03bdb-071b-4d62-9e63-367c36c9ca8b	1418323760900	
+404103	Sonderzahl_1		160/80/72				a0b39816-2af4-4c03-a0d2-12185adc0ea8	1418323788028	
+404104	Sonderganzzahl_2		EG01				140ef76c-d692-4467-b731-bb47829953f9	1418323833645	
+404105	Sonderzahl_2		16,5/23				2176ff0b-5b7f-475a-bd34-7c39b3c771a0	1418323856417	
+404106	Temperatur	temperature	z.B. 10	e.g. 10			445c8eba-ab19-43c1-a77e-4b696180d52f	1418725038073	
+404107	IfcReal	IfcReal	IfcReal	IfcReal			4d5ae54a-0286-4683-b454-d45cd07c7be6	1519997468582	
+404108	IfcPressureMeasure	IfcPressureMeasure	IfcPressureMeasure	IfcPressureMeasure			0f9f1f63-2f4c-4cf0-b3f4-6a17b86e2afc	1519997468659	
+404109	IfcLabel	IfcLabel	IfcLabel	IfcLabel			cd4a3d23-fc77-416b-bf32-3b445949a49f	1519997484128	
+404110	IfcPositiveRatioMeasure	IfcPositiveRatioMeasure	IfcPositiveRatioMeasure	IfcPositiveRatioMeasure			56082177-f033-45aa-a17f-79504e312f01	1519997493698	
+404111	IfcNormalisedRatioMeasure	IfcNormalisedRatioMeasure	IfcNormalisedRatioMeasure	IfcNormalisedRatioMeasure			9aa65844-ce83-4012-b41d-b16d73714529	1519997439740	
+404112	IfcEnergyMeasure	IfcEnergyMeasure	IfcEnergyMeasure	IfcEnergyMeasure			8e03e3e5-ac5e-4c91-9ff9-ff78eff2b86f	1519997440106	
+404113	IfcLengthMeasure	IfcLengthMeasure	IfcLengthMeasure	IfcLengthMeasure			8e702859-3f2f-4879-97b0-076e12c16d2d	1519997511659	
+404114	IfcNumericMeasure	IfcNumericMeasure	IfcNumericMeasure	IfcNumericMeasure			fd1b8802-df06-44a5-a6ff-f6ae46df9456	1519997513931	
+404115	IfcVolumetricFlowRateMeasure	IfcVolumetricFlowRateMeasure	IfcVolumetricFlowRateMeasure	IfcVolumetricFlowRateMeasure			65bfe23b-0510-407b-a494-e5a4acd216e5	1519997518322	
+404116	IfcSoundPowerMeasure	IfcSoundPowerMeasure	IfcSoundPowerMeasure	IfcSoundPowerMeasure			28b3eaf6-f3c8-4257-b749-f32e13db8b83	1519997525391	
+404117	IfcSoundPressureMeasure	IfcSoundPressureMeasure	IfcSoundPressureMeasure	IfcSoundPressureMeasure			c8e745bd-7849-4b92-81ef-ba806c9fdefc	1519997521297	
+404118	IfcPowerMeasure	IfcPowerMeasure	IfcPowerMeasure	IfcPowerMeasure			6e06f348-402d-41e9-b546-cf4f422e1d6f	1519997522047	
